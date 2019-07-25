@@ -14,22 +14,15 @@ public class Gugudan {
         }
     }
 
-    public static void main(String[] args) {
-        for (int i = 2; i < 10; i++) {
-            int[] result = calculate(i);
-            print(result);
-        }
+    //        int[] time4=calculate(4);
+    //        print(time4);
+    //        int[] time5=calculate(5);
+    //        print(time5);
 
-        //        int[] time4=calculate(4);
-        //        print(time4);
-        //        int[] time5=calculate(5);
-        //        print(time5);
+    //        int[] result=calculate(2);
+    //                
+    //        for (int i = 0; i < result.length; i++) {
+    //                    System.out.println(result[i]);            
+    //        }
 
-        //        int[] result=calculate(2);
-        //                
-        //        for (int i = 0; i < result.length; i++) {
-        //                    System.out.println(result[i]);            
-        //        }
-
-    }
 }
